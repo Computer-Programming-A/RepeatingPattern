@@ -30,3 +30,4 @@ Samples of Student Work
 [Kelly](https://trinket.io/embed/python/04fcd53f85?outputOnly=true&runOption=run&start=result)   
 [Wesley](https://trinket.io/embed/python/d4490b324e?outputOnly=true&runOption=run&start=result)   
 [Annie](https://trinket.io/embed/python/3b18be1b51?outputOnly=true&runOption=run&start=result)   
+[Jacob](https://trinket.io/embed/python/94a26abfda?outputOnly=true&runOption=run&start=result)   
