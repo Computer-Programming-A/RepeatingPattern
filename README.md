@@ -17,7 +17,8 @@ smooth()
 x = 0
 while x < 101:
    ellipse(x,50,50,50)
-   x = x + 25</code></pre>
+   x = x + 25
+   </code></pre>
  
 Your program can use as many different shapes as you like, but you need to use at least one `while` loop to make at least one of the shapes repeat. To make the pattern interesting, you should experiment with changing the x & y positions, size, color, opacity, `strokeWeight` and `fill` of your shapes. Have fun and be creative, your pattern doesn't have to look like any other. Don't hesitate to ask for help if your aren't sure how something is suppose to work.   
 Samples of Student Work
@@ -27,3 +28,4 @@ Samples of Student Work
 [Ryan](https://trinket.io/embed/python/5e6e58c50b?outputOnly=true&runOption=run&start=result)
 [Kelly](https://trinket.io/embed/python/04fcd53f85?outputOnly=true&runOption=run&start=result)   
 [Wesley](https://trinket.io/embed/python/d4490b324e?outputOnly=true&runOption=run&start=result)   
+[Annie](https://trinket.io/embed/python/3b18be1b51?outputOnly=true&runOption=run&start=result)   
