@@ -18,7 +18,6 @@ x = 0
 while x < 101:
    ellipse(x,50,50,50)
    x = x + 25
-
 </code> 
 </pre> 
 Your program can use as many different shapes as you like, but you need to use at least one `while` loop to make at least one of the shapes repeat. To make the pattern interesting, you should experiment with changing the x & y positions, size, color, opacity, `strokeWeight` and `fill` of your shapes. Have fun and be creative, your pattern doesn't have to look like any other. Don't hesitate to ask for help if your aren't sure how something is suppose to work.   
