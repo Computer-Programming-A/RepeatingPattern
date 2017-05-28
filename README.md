@@ -1,4 +1,4 @@
-Create a repeating pattern using a while loop
+Create a repeating pattern using a `while` loop
 =============================================
 In this assignment you will write a program that uses at least one `while` loop to make many shapes on the screen. Start a new processing program and save it with a meaningful name like `Repeating`. Remember, the name of your program should start with a letter of the alphabet and should not contain spaces. You could make a pattern of five ellipses with the following code:
 ```python
