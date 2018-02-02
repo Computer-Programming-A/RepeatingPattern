@@ -1,6 +1,6 @@
 Create a repeating pattern of shapes using a `while` loop
 =============================================
-In this assignment you will write a program that uses at least one `while` loop to make many shapes on the screen. You may find 144 - 191-225 of the PythonProcessing.pptx PowerPoint slides and the [`while` Loops worksheet](https://github.com/APCSPrinciples/LoopsWorksheet/blob/master/README.md) helpful in completing this assignment.   
+In this assignment you will write a program that uses at least one `while` loop to make many shapes on the screen. You may find 191-225 of the PythonProcessing.pptx PowerPoint slides and the [`while` Loops worksheet](https://github.com/APCSPrinciples/LoopsWorksheet/blob/master/README.md) helpful in completing this assignment.   
 
 Start a new processing program and save it with a meaningful name like `Repeating`. Remember, the name of your program should start with a letter of the alphabet and should not contain spaces. You could make a pattern of five ellipses with the following code:
 ```python
