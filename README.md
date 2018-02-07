@@ -26,6 +26,9 @@ Your program can use as many different shapes as you like, but you need to use a
 
 Samples of Student Work
 -----------------------
+[Jared](JaredWhile.PNG)   
+[David](DavidWhile.PNG)   
+[Henry](HenryWhile.PNG)   
 [Kevin](https://trinket.io/embed/python/25b0117929?outputOnly=true&runOption=run&start=result)   
 [Raineh](https://trinket.io/embed/python/5ca39edf7a?outputOnly=true&runOption=run&start=result)   
 [Ryan](https://trinket.io/embed/python/5e6e58c50b?outputOnly=true&runOption=run&start=result)   
