@@ -30,6 +30,7 @@ Samples of Student Work
 [David](DavidWhile.PNG)   
 [Henry](HenryWhile.PNG)   
 [Jessie](JessieWhile.PNG)   
+[Kelly](KellyWhile.PNG)   
 [Kevin](https://trinket.io/embed/python/25b0117929?outputOnly=true&runOption=run&start=result)   
 [Raineh](https://trinket.io/embed/python/5ca39edf7a?outputOnly=true&runOption=run&start=result)   
 [Ryan](https://trinket.io/embed/python/5e6e58c50b?outputOnly=true&runOption=run&start=result)   
