@@ -1,26 +1,41 @@
 Create a repeating pattern of shapes using a `while` loop
 =============================================
-In this assignment you will write a program that uses at least one `while` loop to make many shapes on the screen. You may find 193-256 of the PythonProcessing.pptx PowerPoint slides and the [`while` Loops worksheet](https://github.com/APCSPrinciples/LoopsWorksheet/blob/master/README.md) helpful in completing this assignment.   
+In this assignment you will write a program that uses at least one `while` loop to make many shapes on the screen. You may find the [`while` Loops worksheet](https://github.com/APCSPrinciples/LoopsWorksheet/blob/master/README.md) helpful in completing this assignment.   
 
-Start a new processing program and save it with a meaningful name like `Repeating`. Remember, the name of your program should start with a letter of the alphabet and should not contain spaces. You could make a pattern of five ellipses with the following code:
-```python
-noFill()
-smooth()
-ellipse(0,50,50,50)
-ellipse(25,50,50,50)
-ellipse(50,50,50,50)
-ellipse(75,50,50,50)
-ellipse(100,50,50,50)
+Start a new P% program and save it with a meaningful name like `Repeating`. You could make a pattern of five circles with the following code:
+```javascript
+function setup() {
+  createCanvas(100, 100);
+}
+
+function draw() {
+  background(220);
+  noFill();
+  smooth();
+  circle(0, 50, 50);
+  circle(25, 50, 50);
+  circle(50, 50, 50);
+  circle(75, 50, 50);
+  circle(100, 50, 50);
+}
 ```
  
-What if you wanted a pattern of 100 ellipses? Copying and pasting 100 times is tedious. A better way would be to use a `while` loop that repeats 100 times. Look at the example program again. Notice that only the x position of each ellipse is changing. We could create a variable to hold that x position, and use a while loop to make the same five circles:
-```python
-noFill()
-smooth()
-x = 0
-while x < 101:
-   ellipse(x,50,50,50)
-   x = x + 25
+What if you wanted a pattern of 100 circles? Copying and pasting 100 times is tedious. A better way would be to use a `while` loop that repeats 100 times. Look at the example program again. Notice that only the x position of each circle is changing. We could create a variable to hold that x position, and use a while loop to make the same five circles:
+```javascript
+function setup() {
+  createCanvas(100, 100);
+}
+
+function draw() {
+  background(220);
+  noFill();
+  smooth();
+  let x = 0;
+  while (x < 101) {
+    circle(x, 50, 50);
+    x = x + 25;
+  }
+}
 ```
 Your program can use as many different shapes as you like, but you need to use at least one `while` loop to make at least one of the shapes repeat. To make the pattern interesting, you should experiment with changing the x & y positions, size, color, opacity, `strokeWeight` and `fill` of your shapes. Have fun and be creative, your pattern doesn't have to look like any other. Don't hesitate to ask for help if your aren't sure how something is suppose to work.   
 
