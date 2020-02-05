@@ -2,7 +2,7 @@ Create a repeating pattern of shapes using a `while` loop
 =============================================
 In this assignment you will write a program that uses at least one `while` loop to make many shapes on the screen. You may find the [`while` Loops worksheet](https://github.com/APCSPrinciples/LoopsWorksheet/blob/master/README.md) helpful in completing this assignment.   
 
-Start a new P% program and save it with a meaningful name like `Repeating`. You could make a pattern of five circles with the following code:
+Start a new P5 program and save it with a meaningful name like `RepeatingPattern`. You could make a pattern of five circles with the following code:
 ```javascript
 function setup() {
   createCanvas(100, 100);
@@ -37,7 +37,7 @@ function draw() {
   }
 }
 ```
-Your program can use as many different shapes as you like, but you need to use at least one `while` loop to make at least one of the shapes repeat. To make the pattern interesting, you should experiment with changing the x & y positions, size, color, opacity, `strokeWeight` and `fill` of your shapes. Have fun and be creative, your pattern doesn't have to look like any other. Don't hesitate to ask for help if your aren't sure how something is suppose to work.   
+Your program can use as many different shapes as you like, but you need to use at least one `while` loop to make at least one of the shapes repeat. To make the pattern interesting, you should experiment with changing the x & y positions, size, color, opacity, `strokeWeight` and `fill` of your shapes. Have fun and be creative, your pattern doesn't have to look like any other. Don't hesitate to ask for help if your aren't sure how something is suppose to work. Submit the URL of your finished program to Google classroom.   
 
 Samples of Student Work
 -----------------------
