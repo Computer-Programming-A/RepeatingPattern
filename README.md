@@ -41,6 +41,12 @@ Your program can use as many different shapes as you like, but you need to use a
 
 Samples of Student Work
 -----------------------
+[Duan](https://editor.p5js.org/Duan25/present/y6rLrOTA)   
+[Bernice](https://editor.p5js.org/undefined/present/infDsJlI)   
+[Nikhita](https://editor.p5js.org/Bluesnow/present/9ePh5C8r)   
+[Curtis](https://editor.p5js.org/culee/present/IWU9Vqrb)   
+[Ryan](https://editor.p5js.org/rylee15/present/HlbXoj_E)   
+[Michaela](https://editor.p5js.org/michaela29/present/3IJbhQkJ)   
 [Jared](JaredWhile.PNG)   
 [David](DavidWhile.PNG)   
 [Henry](HenryWhile.PNG)   
