@@ -1,43 +1,29 @@
 Create a repeating pattern of shapes using a `while` loop
 =============================================
-In this assignment you will write a program that uses at least one `while` loop to make many shapes on the screen. You may find the [`while` Loops worksheet](https://github.com/APCSPrinciples/LoopsWorksheet/blob/master/README.md) helpful in completing this assignment.   
+In this assignment you will write a program that uses at least one `while` loop to make many shapes on the screen. You may find slides in the slide presentation and the `while` loops worksheet in the previous assignment helpful..   
 
-Start a new P5 program and save it with a meaningful name like `RepeatingPattern`. You could make a pattern of five circles with the following code:
+Start a new [Game Lab program](https://code.org/educate/gamelab) and save it with a meaningful name like `RepeatingPattern`. You could make a pattern of five circles with the following code:
 ```javascript
-function setup() {
-  createCanvas(100, 100);
-}
-
-function draw() {
-  background(220);
   noFill();
-  smooth();
-  circle(0, 50, 50);
-  circle(25, 50, 50);
-  circle(50, 50, 50);
-  circle(75, 50, 50);
-  circle(100, 50, 50);
-}
+  ellipse(100, 50, 50);
+  ellipse(125, 50, 50);
+  ellipse(150, 50, 50);
+  ellipse(175, 50, 50);
+  ellipse(200, 50, 50);
 ```
  
 What if you wanted a pattern of 100 circles? Copying and pasting 100 times is tedious. A better way would be to use a `while` loop that repeats 100 times. Look at the example program again. Notice that only the x position of each circle is changing. We could create a variable to hold that x position, and use a while loop to make the same five circles:
 ```javascript
-function setup() {
-  createCanvas(100, 100);
-}
 
-function draw() {
-  background(220);
   noFill();
-  smooth();
-  let x = 0;
-  while (x < 101) {
-    circle(x, 50, 50);
+  var x = 100;
+  while (x < 201) {
+    ellipse(x,50,50,50);
     x = x + 25;
   }
-}
+
 ```
-Your program can use as many different shapes as you like, but you need to use at least one `while` loop to make at least one of the shapes repeat. To make the pattern interesting, you should experiment with changing the x & y positions, size, color, opacity, `strokeWeight` and `fill` of your shapes. Have fun and be creative, your pattern doesn't have to look like any other. Don't hesitate to ask for help if your aren't sure how something is suppose to work. Submit the URL of your finished program to Google classroom.   
+Your program can use as many different shapes as you like, but you need to use at least one `while` loop to make at least one of the shapes repeat. To make the pattern interesting, you should experiment with changing the x & y positions, size, color, `strokeWeight` and `fill` of your shapes. Have fun and be creative, your pattern doesn't have to look like any other. Don't hesitate to ask for help if your aren't sure how something is suppose to work. Submit the link to your finished program on Google classroom.   
 
 Samples of Student Work
 -----------------------
@@ -47,11 +33,6 @@ Samples of Student Work
 [Curtis](https://editor.p5js.org/culee/present/IWU9Vqrb)   
 [Ryan](https://editor.p5js.org/rylee15/present/HlbXoj_E)   
 [Michaela](https://editor.p5js.org/michaela29/present/3IJbhQkJ)   
-[Jared](JaredWhile.PNG)   
-[David](DavidWhile.PNG)   
-[Henry](HenryWhile.PNG)   
-[Jessie](JessieWhile.PNG)   
-[Kelly](KellyWhile.PNG)   
 [Kevin](https://trinket.io/embed/python/25b0117929?outputOnly=true&runOption=run&start=result)   
 [Raineh](https://trinket.io/embed/python/5ca39edf7a?outputOnly=true&runOption=run&start=result)   
 [Ryan](https://trinket.io/embed/python/5e6e58c50b?outputOnly=true&runOption=run&start=result)   
