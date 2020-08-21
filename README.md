@@ -5,11 +5,11 @@ In this assignment you will write a program that uses at least one `while` loop 
 Start a new [Game Lab program](https://code.org/educate/gamelab) and save it with a meaningful name like `RepeatingPattern`. You could make a pattern of five circles with the following code:
 ```javascript
   noFill();
-  ellipse(100, 50, 50);
-  ellipse(125, 50, 50);
-  ellipse(150, 50, 50);
-  ellipse(175, 50, 50);
-  ellipse(200, 50, 50);
+  ellipse(100, 50, 50, 50);
+  ellipse(125, 50, 50, 50);
+  ellipse(150, 50, 50, 50);
+  ellipse(175, 50, 50, 50);
+  ellipse(200, 50, 50, 50);
 ```
  
 What if you wanted a pattern of 100 circles? Copying and pasting 100 times is tedious. A better way would be to use a `while` loop that repeats 100 times. Look at the example program again. Notice that only the x position of each circle is changing. We could create a variable to hold that x position, and use a while loop to make the same five circles:
