@@ -1,6 +1,6 @@
 Create a repeating pattern of shapes using a `while` loop
 =============================================
-In this assignment you will write a program that uses at least one `while` loop to make many shapes on the screen. You may find slides in the slide presentation and the `while` loops worksheet in the previous assignment helpful..   
+In this assignment you will write a program that uses at least one `while` loop to make many shapes on the screen. You may find slides 84 - 120 in the [slide presentation](https://docs.google.com/presentation/d/1fm_Di0qR4HpRWTf8tJtcW3u5by3OrilfXIPZ517K1js/edit?usp=sharing) and the [`while` loops worksheet](https://github.com/Computer-Programming-A/LoopsWorksheet#while-loops-worksheet) helpful.   
 
 Start a new [Game Lab program](https://code.org/educate/gamelab) and save it with a meaningful name like `RepeatingPattern`. You could make a pattern of five circles with the following code:
 ```javascript
