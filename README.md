@@ -27,6 +27,14 @@ Your program can use as many different shapes as you like, but you need to use a
 
 Samples of Student Work
 -----------------------
+[Tobias](https://studio.code.org/projects/gamelab/UJX8xrJ8MbSK8XRGhtkUtdVnh4939VErQfcw4E6gMek)   
+[Maya](https://studio.code.org/projects/gamelab/yBEnfh05m3S79yqdtQ_rBOEO3qUft-_q89ncRNC0qxU)   
+[Gloria](https://studio.code.org/projects/gamelab/azRw8lCJcLNWA1QtDNSGvZ4fwFqRM6qtk6hGxqRnazs)   
+[Damian](https://studio.code.org/projects/gamelab/8Uk5a36WRv_j_0IF81aRkA8VZvHenGmZ-VANxCuri2Y)   
+[Niko](https://studio.code.org/projects/gamelab/VUMYK3uIv98Y2Wr2rEfbJQxPrbzsXaxnWWACCgB4u6U)   
+[Marco](https://studio.code.org/projects/gamelab/KF1eD8X0XQAPN7dSe58o61e9Mj9VuSje0_7ZcyYJrAM)   
+[Tyler](https://studio.code.org/projects/gamelab/m0M6qquNvROhD-e_odXbPvQaAOPsIZIZelgZXSB4xSs)   
+[Liam](https://studio.code.org/projects/gamelab/yW_IsC4wCYc3QR6aYfBoxlVMFtU7Hx8qAUFyQGBITko)   
 [Duan](https://editor.p5js.org/Duan25/present/y6rLrOTA)   
 [Bernice](https://editor.p5js.org/undefined/present/infDsJlI)   
 [Nikhita](https://editor.p5js.org/Bluesnow/present/9ePh5C8r)   
