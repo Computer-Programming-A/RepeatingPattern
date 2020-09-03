@@ -32,6 +32,7 @@ Samples of Student Work
 [Rachel](https://studio.code.org/projects/gamelab/v_DthAkm__veoEY_aB0rWL1Hh10KfaIkQ5CQKiuM0oQ)   
 [Tuan](https://studio.code.org/projects/gamelab/znaffrSBs9yR43o1KeaTSEa6KIjMRc3CLNwDaOKxJg8)   
 [Sally](https://studio.code.org/projects/gamelab/Lpd1x7fjTpLfvZ0thtbiNewiws8Xys6CUKrM1aFUSZ8)   
+[Stephanie](https://studio.code.org/projects/gamelab/bg2yydL853YfM72kHzF0d-4Y1nVa4PQto3zDDzC4oTQ)   
 [Eva](https://studio.code.org/projects/gamelab/WlNR8khgfFm7qdPOC1IA-ujeHZdAuiRrP6STJau_h3s)   
 [Juan](https://studio.code.org/projects/gamelab/U_skeWQ9cnwbUI0h8kUCwkiDaIszy4y3rL8GLAkm_lA)   
 [Benjamin](https://studio.code.org/projects/gamelab/x6xxlW5C1vmDxB5pzwWhO_rS_75YqAKa5gAe2GjRq5A)   
